@@ -4,7 +4,7 @@ public class bucle {
 
 	public static void main(String[] args) {
 		// bucle 
-		
+		// holi
 		int i = 0;
 		int num = 2; 
 		int tope;
